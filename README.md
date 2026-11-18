@@ -13,6 +13,6 @@
 | ---------- | ------------- | ----------- |
 | Flask      | VSCode        | Codex       |
 | FastAPI    | Visual Studio | Claude Code |
-|            | IntelliJ      | OpenCode    |
+| Playwright | IntelliJ      | OpenCode    |
 |            | Ghidra        | Deepseek    |
 |            | x64dbg        |             |
