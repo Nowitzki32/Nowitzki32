@@ -1,9 +1,6 @@
 # Nowitzki
-
 - No **larping** allowed.
 - I'm interested in **System Programming & Reversing**.
-
-
 
 ## Stacks
 ![Python](https://img.shields.io/badge/Python-3572A5?style=plastic&logo=python&logoColor=white)
