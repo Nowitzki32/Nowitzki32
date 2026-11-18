@@ -1,8 +1,4 @@
-<div align="center">
-
 # Nowitzki
-
-</div>
 
 - No **larping** allowed.
 - I'm interested in **System Programming & Reversing**.
